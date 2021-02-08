@@ -1,0 +1,13 @@
+•	Passionate and motivated technical professional with over 8 years of hands-on experience in the field of Information Technology and various domain of Retails, Financial and Health Care industry focusing on Quality Assurance, automated and manual testing with a solid understanding of Test planning, Test Design, Test Execution and Reporting of web-based, Mobile, API, cloud(AWS/Azure) and client-server applications.
+•	Extensive experience in Software Development Life Cycle (SDLC) and Software Testing Life Cycle (STLC) including different Testing Methodologies like: Agile, Waterfall and RUP.
+•	Strong Experience in Functional Testing, System Testing, Sanity Testing, Smoke Testing, Regression Testing, Integration Testing, Compatibility Testing, Performance Testing and User Acceptance Testing (UAT), Front-End and Back-End Testing.
+•	Hands-on knowledge of Test Automation frameworks - JUnit, TestNG, Data driven, Behavior Driven Development (BDD) and Test Driven Development (TDD).
+•	Extensive experience in SOA/REST/Application/Web service/POS testing using Selenium, Postman, Soap UI,  REST-Assured.
+•	Experience in developing test cases in BDD automation framework using Cucumber by writing behaviors and step definitions followed by developing required Selenium support code in JAVA/Ruby for Cucumber
+•	Extensive experience in Retail (e-commerce, Order Management System, Mobile, Point-of-Sale, Point-of-commerce) & Host system (RMS)
+•	Experienced in testing Standalone Desktop, Client/Server and Web based applications.
+•	Experienced in testing Mobile applications on iOS and Android Operating Systems.
+•	Extensive experience in writing complex queries and working with Join, views, stored procedures, tables, functions, index, triggers using MS-SQL, PL-SQL, T-SQL.
+•	Experience on Defect tracking tools like Service Now, TFS, JIRA, ClearQuest and Quality Center (HP ALM).
+•	Experienced in writing and creating Automation test scripts from scratch inside QTP/UFT/Selenium environment using VB Script/Java Script descriptive programming.
+•	Extensive experience in UNIX and Windows platforms. 
